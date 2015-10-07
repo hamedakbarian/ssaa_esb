@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EventPacket>
+  <ScriptoriumNo>5</ScriptoriumNo>
+  <ScriptoriumName>دفترخانه ازدواج 5 و طلاق 13 تهران استان تهران</ScriptoriumName>
+  <ScriptoriumCode>84016</ScriptoriumCode>
+  <ScriptoriumLocation>تهران</ScriptoriumLocation>
+  <ScriptoriumLocationCode>296</ScriptoriumLocationCode>
+  <ScriptoriumAddress>تهران پارس ، چهار راه اشراق (فلكه دوم سابق ) ابتداي خيابان شهيد ناهيدي (جشنواره سابق ) ساختمان صدف پ183 واحد 3</ScriptoriumAddress>
+  <ScriptoriumSarDaftarFullName>علي صادق مقانلو</ScriptoriumSarDaftarFullName>
+  <ScriptoriumTelNo>021-77860937</ScriptoriumTelNo>
+  <NationalRegisterNo>139340584016000258</NationalRegisterNo>
+  <EventType>4</EventType>
+  <RegisterNo>7687</RegisterNo>
+  <RegisterDate>1386/07/01</RegisterDate>
+  <EventDate>1386/07/01</EventDate>
+  <SerialDocumentNo1>1</SerialDocumentNo1>
+  <SerialDocumentNo2>85</SerialDocumentNo2>
+  <SerialDocumentNo3>026246</SerialDocumentNo3>
+  <HasJudgeHokm>2</HasJudgeHokm>
+  <CaseClassifyNo>1954/287/86</CaseClassifyNo>
+  <DadnamehNo>1934</DadnamehNo>
+  <DadnamehDate>1386/06/31</DadnamehDate>
+  <DadnamehIssuerName>شعبه 287 دادگاه خانواده تهران</DadnamehIssuerName>
+  <MarriageType>1</MarriageType>
+  <DiscreteMarriageMonth></DiscreteMarriageMonth>
+  <DiscreteMarriageYear></DiscreteMarriageYear>
+  <LastModifyDateTime>1393/09/29-12:52</LastModifyDateTime>
+  <Description>شماره ملی زوج: 0069184399
+  شماره ملی زوجه :0069313881
+  تاریخ طلاق:1385/05/12
+  تاریخ رجوع :1386/07/15
+  </Description>
+  <BazlDate></BazlDate>
+  <BazlModatType></BazlModatType>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <FaskhDate></FaskhDate>
+  <CaseClassifyNo4Faskh></CaseClassifyNo4Faskh>
+  <HokmDate4Faskh></HokmDate4Faskh>
+  <HokmIssuerName4Faskh></HokmIssuerName4Faskh>
+  <HokmNo4Faskh></HokmNo4Faskh>
+  <NationalRegisterNo4Faskh></NationalRegisterNo4Faskh>
+  <DivorceBaenType>2</DivorceBaenType>
+  <DivorceType>2</DivorceType>
+  <DivorceRequester>3</DivorceRequester>
+  <HasMarriageInfo4Divorce>1</HasMarriageInfo4Divorce>
+  <MarriageScriptorium4DivorceCode></MarriageScriptorium4DivorceCode>
+  <MarriageScriptoriumLoc4Divrc>تهران</MarriageScriptoriumLoc4Divrc>
+  <MarriageScriptoriumNo4Divrc>33</MarriageScriptoriumNo4Divrc>
+  <NationalRegisterNo4Divorce></NationalRegisterNo4Divorce>
+  <RelatedEventDate4Divorce>1377/10/12</RelatedEventDate4Divorce>
+  <RelatedRegisterNo4Divorce>7231</RelatedRegisterNo4Divorce>
+  <RelatedRegisterDate4Divorce>1377/10/12</RelatedRegisterDate4Divorce>
+  <RelatedRegisterDate4Divorce>1377/10/12</RelatedRegisterDate4Divorce>
+  <ReturnDate>1386/07/15</ReturnDate>
+  <CaseClassifyNo4Return>1434/287/93</CaseClassifyNo4Return>
+  <HokmDate4Return>1393/09/29</HokmDate4Return>
+  <HokmIssuerName4Return>خانواده تهران</HokmIssuerName4Return>
+  <HokmNo4Return>9309970243501722</HokmNo4Return>
+  <MaxSpecifiedDate4Return>1386/10/01</MaxSpecifiedDate4Return>
+  <NationalRegisterNo4Return>139340684016000003</NationalRegisterNo4Return>
+  <ReturnInSpecifiedTime>1</ReturnInSpecifiedTime>
+  <ReturnResultToMarriage>1</ReturnResultToMarriage>
+  <WifeNationalityType>1</WifeNationalityType>
+  <WifeNationalityCode>296</WifeNationalityCode>
+  <WifeNationalityTitle>ايران</WifeNationalityTitle>
+  <WifeIsInfoCompleted>1</WifeIsInfoCompleted>
+  <WifeNamePrefix>2</WifeNamePrefix>
+  <WifeName>اعظم السادات</WifeName>
+  <WifeFamily>مشهديعلي</WifeFamily>
+  <WifeBirthDate>1357/06/16</WifeBirthDate>
+  <WifeNationalNo>0069313881</WifeNationalNo>
+  <WifeFatherName>جلال</WifeFatherName>
+  <WifeMotherName>سيده مريم</WifeMotherName>
+  <WifeIdentityNo>10236</WifeIdentityNo>
+  <WifeIdentitySerialNo1></WifeIdentitySerialNo1>
+  <WifeIdentitySerialNo2>4</WifeIdentitySerialNo2>
+  <WifeIdentitySerialNo3>474251</WifeIdentitySerialNo3>
+  <WifeIdentityIssueLoc>تهران</WifeIdentityIssueLoc>
+  <WifePassportDate></WifePassportDate>
+  <WifePassportNo></WifePassportNo>
+  <WifeMarriagePermitDate></WifeMarriagePermitDate>
+  <WifeMarriagePermitNo></WifeMarriagePermitNo>
+  <WifeNajaDocDate></WifeNajaDocDate>
+  <WifeNajaDocNo></WifeNajaDocNo>
+  <WifeNajaDocNo></WifeNajaDocNo>
+  <WifeNajaDocNo></WifeNajaDocNo>
+  <WifeMNotaryJobCode>X000005</WifeMNotaryJobCode>
+  <WifeMNotaryJobTitle>خانه دار</WifeMNotaryJobTitle>
+  <WifeEducationLevelCode>07</WifeEducationLevelCode>
+  <WifeEducationLevelTitle>ديپلم يا پيش دانشگاهي</WifeEducationLevelTitle>
+  <WifeReligionCode>1</WifeReligionCode>
+  <WifeReligionTitle>اسلام</WifeReligionTitle>
+  <WifeReligionIdeologyCode>1</WifeReligionIdeologyCode>
+  <WifeReligionIdeologyTitle>شيعه</WifeReligionIdeologyTitle>
+  <WifeNumOfMarriages>1</WifeNumOfMarriages>
+  <WifeAddress>تهران پرديس مجتمع سهند و 2</WifeAddress>
+  <WifeAddressGeolocationCode>296</WifeAddressGeolocationCode>
+  <WifeAddressGeolocationTitle>تهران</WifeAddressGeolocationTitle>
+  <WifePostalCode>1658115795</WifePostalCode>
+  <HusbandNationalityType>1</HusbandNationalityType>
+  <HusbandNationalityCode>296</HusbandNationalityCode>
+  <HusbandNationalityTitle>ايران</HusbandNationalityTitle>
+  <HusbandIsInfoCompleted>1</HusbandIsInfoCompleted>
+  <HusbandName>مهدي</HusbandName>
+  <HusbandFamily>عباسي مقدم</HusbandFamily>
+  <HusbandBirthDate>1356/04/25</HusbandBirthDate>
+  <HusbandNationalNo>0069184399</HusbandNationalNo>
+  <HusbandFatherName>محمدحسين</HusbandFatherName>
+  <HusbandMotherName>زهرا</HusbandMotherName>
+  <HusbandIdentityNo>10782</HusbandIdentityNo>
+  <HusbandIdentitySerialNo1>1</HusbandIdentitySerialNo1>
+  <HusbandIdentitySerialNo2>34</HusbandIdentitySerialNo2>
+  <HusbandIdentitySerialNo3>296862</HusbandIdentitySerialNo3>
+  <HusbandIdentityIssueLoc>تهران</HusbandIdentityIssueLoc>
+  <HusbandPassportDate></HusbandPassportDate>
+  <HusbandPassportNo></HusbandPassportNo>
+  <HusbandMarriagePermitDate></HusbandMarriagePermitDate>
+  <HusbandMarriagePermitNo></HusbandMarriagePermitNo>
+  <HusbandNajaDocDate></HusbandNajaDocDate>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandMNotaryJobCode>X000004</HusbandMNotaryJobCode>
+  <HusbandMNotaryJobTitle>آزاد</HusbandMNotaryJobTitle>
+  <HusbandEducationLevelCode>07</HusbandEducationLevelCode>
+  <HusbandEducationLevelTitle>ديپلم يا پيش دانشگاهي</HusbandEducationLevelTitle>
+  <HusbandReligionCode>1</HusbandReligionCode>
+  <HusbandReligionTitle>اسلام</HusbandReligionTitle>
+  <HusbandReligionIdeologyCode>1</HusbandReligionIdeologyCode>
+  <HusbandReligionIdeologyTitle>شيعه</HusbandReligionIdeologyTitle>
+  <HusbandNumOfMarriages>1</HusbandNumOfMarriages>
+  <HusbandAddress>تهرانپارس وفادار شرقي خ زهدي پ 109</HusbandAddress>
+  <HusbandAddressGeoLocationCode>296</HusbandAddressGeoLocationCode>
+  <HusbandAddressGeoLocationTitle>تهران</HusbandAddressGeoLocationTitle>
+  <HusbandPostalCode>1644657951</HusbandPostalCode>
+</EventPacket>
+
+

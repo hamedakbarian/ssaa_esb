@@ -1,0 +1,206 @@
+package org.FaraFan.Dao;
+
+import org.FaraFan.Dao.Connection.EntityBase;
+import org.FaraFan.Entity.Result.EventPacket;
+import org.FaraFan.SsaaException;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ResourceBundle;
+
+/**
+ * User: Behrooz Mohamadi <behrooz.mohamadi.66@gmail.com>
+ * Date: 9/2/12
+ * Time: 11:33 AM
+ * To change this template use File | Settings | File Templates.
+ */
+public class CoupleInfoRepository extends EntityBase {
+    final ResourceBundle resource = ResourceBundle.getBundle("SsaaConfig");
+    String databaseUserName = resource.getString("DatabaseUserName");
+    public CoupleInfoRepository(Connection cn) {
+        super(cn);
+    }
+
+    public Long saveWife(String Schema,EventPacket eventPacket) throws Exception {
+        String sql = "INSERT INTO "+Schema+".SSAA_COUPLE_INFO " +
+                "(ID," +
+                "NationalityType," +
+                "NationalityCode," +
+                "NationalityTitle," +
+                "IsInfoCompleted," +
+                "NamePrefix," +
+                "Name," +
+                "Family," +
+                "BirthDate," +
+                "NationalNo," +
+                "FatherName," +
+                "MotherName," +
+                "IdentityNo," +
+                "IdentitySerialNo1," +
+                "IdentitySerialNo2," +
+                "IdentitySerialNo3," +
+                "IdentityIssueLoc," +
+                "PassportDate," +
+                "PassportNo," +
+                "MarriagePermitDate," +
+                "MarriagePermitNo," +
+                "NajaDocDate," +
+                "NajaDocNo," +
+                "MNotaryJobCode," +
+                "MNotaryJobTitle," +
+                "EducationLevelCode," +
+                "EducationLevelTitle," +
+                "ReligionCode," +
+                "ReligionTitle," +
+                "ReligionIdeologyCode," +
+                "ReligionIdeologyTitle," +
+                "NumOfMarriages," +
+                "Address," +
+                "AddressGeolocationCode," +
+                "AddressGeolocationTitle," +
+                "PostalCode," +
+                "SEX_TYPE) "+
+                "VALUES (" + databaseUserName + ".SEQ_TBL_COUPLE_INFO.nextval, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, " +
+                "?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 0)";
+
+        try {
+            PreparedStatement stmt = getConnection().prepareStatement(sql);
+
+            stmt.setInt   (1,  eventPacket.getWifeNationalityType());
+            stmt.setString(2,  eventPacket.getWifeNationalityCode());
+            stmt.setString(3,  eventPacket.getWifeNationalityTitle());
+            stmt.setInt   (4,  eventPacket.getWifeIsInfoCompleted());
+            stmt.setInt   (5,  eventPacket.getWifeNamePrefix());
+            stmt.setString(6,  eventPacket.getWifeName());
+            stmt.setString(7,  eventPacket.getWifeFamily());
+            stmt.setString(8,  eventPacket.getWifeBirthDate());
+            stmt.setString(9,  eventPacket.getWifeNationalNo());
+            stmt.setString(10, eventPacket.getWifeFatherName());
+            stmt.setString(11, eventPacket.getWifeMotherName());
+            stmt.setString(12, eventPacket.getWifeIdentityNo());
+            stmt.setInt   (13, eventPacket.getWifeIdentitySerialNo1());
+            stmt.setString(14, eventPacket.getWifeIdentitySerialNo2());
+            stmt.setString(15, eventPacket.getWifeIdentitySerialNo3());
+            stmt.setString(16, eventPacket.getWifeIdentityIssueLoc());
+            stmt.setString(17, eventPacket.getWifePassportDate());
+            stmt.setString(18, eventPacket.getWifePassportNo());
+            stmt.setString(19, eventPacket.getWifeMarriagePermitDate());
+            stmt.setString(20, eventPacket.getWifeMarriagePermitNo());
+            stmt.setString(21, eventPacket.getWifeNajaDocDate());
+            stmt.setString(22, eventPacket.getWifeNajaDocNo());
+            stmt.setString(23, eventPacket.getWifeMNotaryJobCode());
+            stmt.setString(24, eventPacket.getWifeMNotaryJobTitle());
+            stmt.setString(25, eventPacket.getWifeEducationLevelCode());
+            stmt.setString(26, eventPacket.getWifeEducationLevelTitle());
+            stmt.setInt   (27, eventPacket.getWifeReligionCode());
+            stmt.setString(28, eventPacket.getWifeReligionTitle());
+            stmt.setInt   (29, eventPacket.getWifeReligionIdeologyCode());
+            stmt.setString(30, eventPacket.getWifeReligionIdeologyTitle());
+            stmt.setInt   (31, eventPacket.getWifeNumOfMarriages());
+            stmt.setString(32, eventPacket.getWifeAddress());
+            stmt.setString(33, eventPacket.getWifeAddressGeolocationCode());
+            stmt.setString(34, eventPacket.getWifeAddressGeolocationTitle());
+            stmt.setString(35, eventPacket.getWifePostalCode());
+            stmt.executeUpdate();
+
+            stmt = getConnection().prepareStatement("Select " + databaseUserName +".SEQ_TBL_COUPLE_INFO.currval from dual");
+            ResultSet rs = stmt.executeQuery();
+            if (rs.next()) {
+                return rs.getLong(1);
+            }else throw new SsaaException("sequence SEQ_TBL_COUPLE_INFO not exist!");
+        } catch (Exception ex) {
+            throw new SsaaException(ex.toString());
+        }
+    }
+    public Long saveHusband(String Schema,EventPacket eventPacket) throws Exception {
+        String sql = "INSERT INTO "+Schema+".SSAA_COUPLE_INFO " +
+                "(ID," +
+                "NationalityType," +
+                "NationalityCode," +
+                "NationalityTitle," +
+                "IsInfoCompleted," +
+                "NamePrefix," +
+                "Name," +
+                "Family," +
+                "BirthDate," +
+                "NationalNo," +
+                "FatherName," +
+                "MotherName," +
+                "IdentityNo," +
+                "IdentitySerialNo1," +
+                "IdentitySerialNo2," +
+                "IdentitySerialNo3," +
+                "IdentityIssueLoc," +
+                "PassportDate," +
+                "PassportNo," +
+                "MarriagePermitDate," +
+                "MarriagePermitNo," +
+                "NajaDocDate," +
+                "NajaDocNo," +
+                "MNotaryJobCode," +
+                "MNotaryJobTitle," +
+                "EducationLevelCode," +
+                "EducationLevelTitle," +
+                "ReligionCode," +
+                "ReligionTitle," +
+                "ReligionIdeologyCode," +
+                "ReligionIdeologyTitle," +
+                "NumOfMarriages," +
+                "Address," +
+                "AddressGeolocationCode," +
+                "AddressGeolocationTitle," +
+                "PostalCode," +
+                "SEX_TYPE) "+
+                "VALUES (" + databaseUserName + ".SEQ_TBL_COUPLE_INFO.nextval, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, " +
+                "?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 1)";
+
+        try {
+            PreparedStatement stmt = getConnection().prepareStatement(sql);
+
+            stmt.setInt   (1,  eventPacket.getHusbandNationalityType());
+            stmt.setString(2,  eventPacket.getHusbandNationalityCode());
+            stmt.setString(3,  eventPacket.getHusbandNationalityTitle());
+            stmt.setInt   (4,  eventPacket.getHusbandIsInfoCompleted());
+            stmt.setInt   (5,  eventPacket.getHusbandNamePrefix());
+            stmt.setString(6,  eventPacket.getHusbandName());
+            stmt.setString(7,  eventPacket.getHusbandFamily());
+            stmt.setString(8,  eventPacket.getHusbandBirthDate());
+            stmt.setString(9,  eventPacket.getHusbandNationalNo());
+            stmt.setString(10, eventPacket.getHusbandFatherName());
+            stmt.setString(11, eventPacket.getHusbandMotherName());
+            stmt.setString(12, eventPacket.getHusbandIdentityNo());
+            stmt.setInt   (13, eventPacket.getHusbandIdentitySerialNo1());
+            stmt.setString(14, eventPacket.getHusbandIdentitySerialNo2());
+            stmt.setString(15, eventPacket.getHusbandIdentitySerialNo3());
+            stmt.setString(16, eventPacket.getHusbandIdentityIssueLoc());
+            stmt.setString(17, eventPacket.getHusbandPassportDate());
+            stmt.setString(18, eventPacket.getHusbandPassportNo());
+            stmt.setString(19, eventPacket.getHusbandMarriagePermitDate());
+            stmt.setString(20, eventPacket.getHusbandMarriagePermitNo());
+            stmt.setString(21, eventPacket.getHusbandNajaDocDate());
+            stmt.setString(22, eventPacket.getHusbandNajaDocNo());
+            stmt.setString(23, eventPacket.getHusbandMNotaryJobCode());
+            stmt.setString(24, eventPacket.getHusbandMNotaryJobTitle());
+            stmt.setString(25, eventPacket.getHusbandEducationLevelCode());
+            stmt.setString(26, eventPacket.getHusbandEducationLevelTitle());
+            stmt.setInt   (27, eventPacket.getHusbandReligionCode());
+            stmt.setString(28, eventPacket.getHusbandReligionTitle());
+            stmt.setInt   (29, eventPacket.getHusbandReligionIdeologyCode());
+            stmt.setString(30, eventPacket.getHusbandReligionIdeologyTitle());
+            stmt.setInt   (31, eventPacket.getHusbandNumOfMarriages());
+            stmt.setString(32, eventPacket.getHusbandAddress());
+            stmt.setString(33, eventPacket.getHusbandAddressGeoLocationCode());
+            stmt.setString(34, eventPacket.getHusbandAddressGeoLocationTitle());
+            stmt.setString(35, eventPacket.getHusbandPostalCode());
+            stmt.executeUpdate();
+            stmt = getConnection().prepareStatement("Select " + databaseUserName + ".SEQ_TBL_COUPLE_INFO.currval from dual");
+            ResultSet rs = stmt.executeQuery();
+            if (rs.next()) {
+                return rs.getLong(1);
+            }else throw new SsaaException("sequence SEQ_TBL_COUPLE_INFO not exist!");
+        } catch (Exception ex) {
+            throw new SsaaException(ex.toString());
+        }
+    }
+}

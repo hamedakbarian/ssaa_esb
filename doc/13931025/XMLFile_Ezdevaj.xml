@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EventPacket>
+  <ScriptoriumNo>24</ScriptoriumNo>
+  <ScriptoriumName>دفتر خانه ازدواج 24 شهر اردبيل استان اردبيل</ScriptoriumName>
+  <ScriptoriumCode>83109</ScriptoriumCode>
+  <ScriptoriumLocation>اردبيل</ScriptoriumLocation>
+  <ScriptoriumLocationCode>296</ScriptoriumLocationCode>
+  <ScriptoriumAddress>اردبيل خيابان كاشاني مابين چهارراه پيرعبدالملك و ياقوت اول كوچه حاج ستار پلاك 14</ScriptoriumAddress>
+  <ScriptoriumSarDaftarFullName>مرتضي باقرزاده</ScriptoriumSarDaftarFullName>
+  <ScriptoriumTelNo>0451-33366141</ScriptoriumTelNo>
+  <NationalRegisterNo>139340483109000762</NationalRegisterNo>
+  <EventType>1</EventType>
+  <RegisterNo>5007</RegisterNo>
+  <RegisterDate>1393/07/27</RegisterDate>
+  <EventDate>1393/07/27</EventDate>
+  <SerialDocumentNo1>1</SerialDocumentNo1>
+  <SerialDocumentNo2>92</SerialDocumentNo2>
+  <SerialDocumentNo3>625063</SerialDocumentNo3>
+  <HasJudgeHokm>2</HasJudgeHokm>
+  <CaseClassifyNo></CaseClassifyNo>
+  <DadnamehNo>1450441</DadnamehNo>
+  <DadnamehDate>1392/01/05</DadnamehDate>
+  <DadnamehIssuerName>مراجع قضایی</DadnamehIssuerName>
+  <MarriageType>1</MarriageType>
+  <DiscreteMarriageMonth>11</DiscreteMarriageMonth>
+  <DiscreteMarriageYear>1385</DiscreteMarriageYear>
+  <LastModifyDateTime>1393/07/27-20:03</LastModifyDateTime>
+  <Description></Description>
+  <BazlDate></BazlDate>
+  <BazlModatType></BazlModatType>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <FaskhDate></FaskhDate>
+  <CaseClassifyNo4Faskh></CaseClassifyNo4Faskh>
+  <HokmDate4Faskh></HokmDate4Faskh>
+  <HokmIssuerName4Faskh></HokmIssuerName4Faskh>
+  <HokmNo4Faskh></HokmNo4Faskh>
+  <NationalRegisterNo4Faskh></NationalRegisterNo4Faskh>
+  <DivorceBaenType></DivorceBaenType>
+  <DivorceType></DivorceType>
+  <DivorceRequester></DivorceRequester>
+  <HasMarriageInfo4Divorce></HasMarriageInfo4Divorce>
+  <MarriageScriptorium4DivorceCode></MarriageScriptorium4DivorceCode>
+  <MarriageScriptoriumLoc4Divrc></MarriageScriptoriumLoc4Divrc>
+  <MarriageScriptoriumNo4Divrc></MarriageScriptoriumNo4Divrc>
+  <NationalRegisterNo4Divorce></NationalRegisterNo4Divorce>
+  <RelatedEventDate4Divorce></RelatedEventDate4Divorce>
+  <RelatedRegisterNo4Divorce></RelatedRegisterNo4Divorce>
+  <RelatedRegisterDate4Divorce></RelatedRegisterDate4Divorce>
+  <RelatedRegisterDate4Divorce></RelatedRegisterDate4Divorce>
+  <ReturnDate></ReturnDate>
+  <CaseClassifyNo4Return></CaseClassifyNo4Return>
+  <HokmDate4Return></HokmDate4Return>
+  <HokmIssuerName4Return></HokmIssuerName4Return>
+  <HokmNo4Return></HokmNo4Return>
+  <MaxSpecifiedDate4Return></MaxSpecifiedDate4Return>
+  <NationalRegisterNo4Return></NationalRegisterNo4Return>
+  <ReturnInSpecifiedTime></ReturnInSpecifiedTime>
+  <ReturnResultToMarriage></ReturnResultToMarriage>
+  <WifeNationalityType>1</WifeNationalityType>
+  <WifeNationalityCode>296</WifeNationalityCode>
+  <WifeNationalityTitle>ايران</WifeNationalityTitle>
+  <WifeIsInfoCompleted>1</WifeIsInfoCompleted>
+  <WifeNamePrefix>1</WifeNamePrefix>
+  <WifeName>پريسا</WifeName>
+  <WifeFamily>قهرماني نياري</WifeFamily>
+  <WifeBirthDate>1376/01/10</WifeBirthDate>
+  <WifeNationalNo>1451158068</WifeNationalNo>
+  <WifeFatherName>مقصود</WifeFatherName>
+  <WifeMotherName>فاطمه</WifeMotherName>
+  <WifeIdentityNo>1451158068</WifeIdentityNo>
+  <WifeIdentitySerialNo1>10</WifeIdentitySerialNo1>
+  <WifeIdentitySerialNo2>13</WifeIdentitySerialNo2>
+  <WifeIdentitySerialNo3>789694</WifeIdentitySerialNo3>
+  <WifeIdentityIssueLoc>اردبيل</WifeIdentityIssueLoc>
+  <WifePassportDate>1390/01/24</WifePassportDate>
+  <WifePassportNo>14508742</WifePassportNo>
+  <WifeMarriagePermitDate></WifeMarriagePermitDate>
+  <WifeMarriagePermitNo></WifeMarriagePermitNo>
+  <WifeNajaDocDate>1392/05/14</WifeNajaDocDate>
+  <WifeNajaDocNo>248</WifeNajaDocNo>
+  <WifeNajaDocNo>248</WifeNajaDocNo>
+  <WifeNajaDocNo>248</WifeNajaDocNo>
+  <WifeMNotaryJobCode>X000006</WifeMNotaryJobCode>
+  <WifeMNotaryJobTitle>دانشجو</WifeMNotaryJobTitle>
+  <WifeEducationLevelCode>09</WifeEducationLevelCode>
+  <WifeEducationLevelTitle>ليسانس - كارشناسي</WifeEducationLevelTitle>
+  <WifeReligionCode>1</WifeReligionCode>
+  <WifeReligionTitle>اسلام</WifeReligionTitle>
+  <WifeReligionIdeologyCode>1</WifeReligionIdeologyCode>
+  <WifeReligionIdeologyTitle>شيعه</WifeReligionIdeologyTitle>
+  <WifeNumOfMarriages>1</WifeNumOfMarriages>
+  <WifeAddress>اردبيل خ زاهدي كوچه زاهدي پ 20</WifeAddress>
+  <WifeAddressGeolocationCode>296</WifeAddressGeolocationCode>
+  <WifeAddressGeolocationTitle>اردبيل</WifeAddressGeolocationTitle>
+  <WifePostalCode>5618446565</WifePostalCode>
+  <HusbandNationalityType>1</HusbandNationalityType>
+  <HusbandNationalityCode>296</HusbandNationalityCode>
+  <HusbandNationalityTitle>ايران</HusbandNationalityTitle>
+  <HusbandIsInfoCompleted>1</HusbandIsInfoCompleted>
+  <HusbandName>حامد</HusbandName>
+  <HusbandFamily>محجوب نياري</HusbandFamily>
+  <HusbandBirthDate>1365/07/12</HusbandBirthDate>
+  <HusbandNationalNo>1467651923</HusbandNationalNo>
+  <HusbandFatherName>ارسلان</HusbandFatherName>
+  <HusbandMotherName>رقيه</HusbandMotherName>
+  <HusbandIdentityNo>273</HusbandIdentityNo>
+  <HusbandIdentitySerialNo1>10</HusbandIdentitySerialNo1>
+  <HusbandIdentitySerialNo2>17</HusbandIdentitySerialNo2>
+  <HusbandIdentitySerialNo3>826441</HusbandIdentitySerialNo3>
+  <HusbandIdentityIssueLoc>اردبيل</HusbandIdentityIssueLoc>
+  <HusbandPassportDate>13900212</HusbandPassportDate>
+  <HusbandPassportNo>120548/1204</HusbandPassportNo>
+  <HusbandMarriagePermitDate></HusbandMarriagePermitDate>
+  <HusbandMarriagePermitNo></HusbandMarriagePermitNo>
+  <HusbandNajaDocDate>13901215</HusbandNajaDocDate>
+  <HusbandNajaDocNo>12045/012</HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandMNotaryJobCode>2144020</HusbandMNotaryJobCode>
+  <HusbandMNotaryJobTitle>مهندس الكترونيك </HusbandMNotaryJobTitle>
+  <HusbandEducationLevelCode>08</HusbandEducationLevelCode>
+  <HusbandEducationLevelTitle>فوق ديپلم - كارداني</HusbandEducationLevelTitle>
+  <HusbandReligionCode>1</HusbandReligionCode>
+  <HusbandReligionTitle>اسلام</HusbandReligionTitle>
+  <HusbandReligionIdeologyCode>1</HusbandReligionIdeologyCode>
+  <HusbandReligionIdeologyTitle>شيعه</HusbandReligionIdeologyTitle>
+  <HusbandNumOfMarriages>+1</HusbandNumOfMarriages>
+  <HusbandAddress>اردبيل محله نيار خ زاهدي كوچه زاهدي پ 4</HusbandAddress>
+  <HusbandAddressGeoLocationCode>296</HusbandAddressGeoLocationCode>
+  <HusbandAddressGeoLocationTitle>اردبيل</HusbandAddressGeoLocationTitle>
+  <HusbandPostalCode>5618135377</HusbandPostalCode>
+</EventPacket>
+
+

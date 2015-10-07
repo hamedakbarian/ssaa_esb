@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/EsbService
+END
+ServiceSoap.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/EsbService/ServiceSoap.java
+END
+ServiceSoap12Stub.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/EsbService/ServiceSoap12Stub.java
+END
+ServiceSoapStub.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/EsbService/ServiceSoapStub.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/EsbService/Service.java
+END
+ServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/EsbService/ServiceLocator.java
+END

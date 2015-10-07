@@ -1,0 +1,140 @@
+﻿<response id="71426"><userid>1003</userid><cat>nocr</cat><action>getetpackets</action>
+				<code id="0">ok</code>
+				<body><Result ErrorCode="0" ErrorMessage=""  ReqNo="1">
+<Body>
+<EventPacket>
+<ScriptoriumNo>999</ScriptoriumNo>
+<ScriptoriumName>دفترخانه ازدواج شماره 999 و طلاق شماره 888 روستاي عزيزآباد بخش فشاپويه استان تهران</ScriptoriumName>
+<ScriptoriumCode>82573</ScriptoriumCode>
+<ScriptoriumLocation>عزيزآباد</ScriptoriumLocation>
+<ScriptoriumLocationCode>296</ScriptoriumLocationCode>
+<ScriptoriumAddress>تهران- ميدان حسين آباد- ابتداي وزيرستان- بن بست هادي- پلاك 5555555555ي 656</ScriptoriumAddress>
+<ScriptoriumSarDaftarFullName>رضا فلاح مراد</ScriptoriumSarDaftarFullName>
+<ScriptoriumTelNo>021-55555555</ScriptoriumTelNo>
+<NationalRegisterNo>139340582573000006</NationalRegisterNo>
+<EventType>1</EventType>
+<RegisterNo>25768</RegisterNo>
+<RegisterDate>1393/02/04</RegisterDate>
+<EventDate>1393/02/04</EventDate>
+<SerialDocumentNo1>1</SerialDocumentNo1>
+<SerialDocumentNo2>255563</SerialDocumentNo2>
+<SerialDocumentNo3>93</SerialDocumentNo3>
+<HasJudgeHokm>2</HasJudgeHokm>
+<CaseClassifyNo></CaseClassifyNo>
+<DadnamehNo></DadnamehNo>
+<DadnamehDate></DadnamehDate>
+<DadnamehIssuerName></DadnamehIssuerName>
+<MarriageType>1</MarriageType>
+<DiscreteMarriageMonth></DiscreteMarriageMonth>
+<DiscreteMarriageYear></DiscreteMarriageYear>
+<LastModifyDateTime>1393/02/04-12:18</LastModifyDateTime>
+<Description></Description>
+<BazlDate></BazlDate>
+<BazlModatType></BazlModatType>
+<NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+<NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+<FaskhDate></FaskhDate>
+<CaseClassifyNo4Faskh></CaseClassifyNo4Faskh>
+<HokmDate4Faskh></HokmDate4Faskh>
+<HokmIssuerName4Faskh></HokmIssuerName4Faskh>
+<HokmNo4Faskh></HokmNo4Faskh>
+<NationalRegisterNo4Faskh></NationalRegisterNo4Faskh>
+<DivorceBaenType></DivorceBaenType>
+<DivorceType></DivorceType>
+<DivorceRequester></DivorceRequester>
+<HasMarriageInfo4Divorce></HasMarriageInfo4Divorce>
+<MarriageScriptorium4DivorceCode></MarriageScriptorium4DivorceCode>
+<MarriageScriptoriumLoc4Divrc></MarriageScriptoriumLoc4Divrc>
+<MarriageScriptoriumNo4Divrc></MarriageScriptoriumNo4Divrc>
+<NationalRegisterNo4Divorce></NationalRegisterNo4Divorce>
+<RelatedEventDate4Divorce></RelatedEventDate4Divorce>
+<RelatedRegisterNo4Divorce></RelatedRegisterNo4Divorce>
+<RelatedRegisterDate4Divorce></RelatedRegisterDate4Divorce>
+<RelatedRegisterDate4Divorce></RelatedRegisterDate4Divorce>
+<ReturnDate></ReturnDate>
+<CaseClassifyNo4Return></CaseClassifyNo4Return>
+<HokmDate4Return></HokmDate4Return>
+<HokmIssuerName4Return></HokmIssuerName4Return>
+<HokmNo4Return></HokmNo4Return>
+<MaxSpecifiedDate4Return></MaxSpecifiedDate4Return>
+<NationalRegisterNo4Return></NationalRegisterNo4Return>
+<ReturnInSpecifiedTime></ReturnInSpecifiedTime>
+<ReturnResultToMarriage></ReturnResultToMarriage>
+<WifeNationalityType>1</WifeNationalityType>
+<WifeNationalityCode>296</WifeNationalityCode>
+<WifeNationalityTitle>ايران</WifeNationalityTitle>
+<WifeIsInfoCompleted>2</WifeIsInfoCompleted>
+<WifeNamePrefix>1</WifeNamePrefix>
+<WifeName>فائقه</WifeName>
+<WifeFamily>شريعتي نژاد</WifeFamily>
+<WifeBirthDate>1367/09/28</WifeBirthDate>
+<WifeNationalNo>2580086749</WifeNationalNo>
+<WifeFatherName>ابراهيم</WifeFatherName>
+<WifeMotherName>زيور</WifeMotherName>
+<WifeIdentityNo>8450</WifeIdentityNo>
+<WifeIdentitySerialNo1>1</WifeIdentitySerialNo1>
+<WifeIdentitySerialNo2>27</WifeIdentitySerialNo2>
+<WifeIdentitySerialNo3>554214</WifeIdentitySerialNo3>
+<WifeIdentityIssueLoc>سمنان</WifeIdentityIssueLoc>
+<WifePassportDate></WifePassportDate>
+<WifePassportNo></WifePassportNo>
+<WifeMarriagePermitDate></WifeMarriagePermitDate>
+<WifeMarriagePermitNo></WifeMarriagePermitNo>
+<WifeNajaDocDate></WifeNajaDocDate>
+<WifeNajaDocNo></WifeNajaDocNo>
+<WifeNajaDocNo></WifeNajaDocNo>
+<WifeNajaDocNo></WifeNajaDocNo>
+<WifeMNotaryJobCode>2131005</WifeMNotaryJobCode>
+<WifeMNotaryJobTitle>تحليل‌گر سيستم كامپيوتر </WifeMNotaryJobTitle>
+<WifeEducationLevelCode>09</WifeEducationLevelCode>
+<WifeEducationLevelTitle>ليسانس - كارشناسي</WifeEducationLevelTitle>
+<WifeReligionCode>1</WifeReligionCode>
+<WifeReligionTitle>اسلام</WifeReligionTitle>
+<WifeReligionIdeologyCode>1</WifeReligionIdeologyCode>
+<WifeReligionIdeologyTitle>شيعه</WifeReligionIdeologyTitle>
+<WifeNumOfMarriages>0</WifeNumOfMarriages>
+<WifeAddress>سمنان-تعاون-خيابان دوم از بالا وسطاي كوچه</WifeAddress>
+<WifeAddressGeolocationCode>296</WifeAddressGeolocationCode>
+<WifeAddressGeolocationTitle>سمنان</WifeAddressGeolocationTitle>
+<WifePostalCode>3519715317</WifePostalCode>
+<HusbandNationalityType>1</HusbandNationalityType>
+<HusbandNationalityCode>296</HusbandNationalityCode>
+<HusbandNationalityTitle>ايران</HusbandNationalityTitle>
+<HusbandIsInfoCompleted>2</HusbandIsInfoCompleted>
+<HusbandName>عباسعلي</HusbandName>
+<HusbandFamily>رضائي</HusbandFamily>
+<HusbandBirthDate>1365/12/09</HusbandBirthDate>
+<HusbandNationalNo>2580129553</HusbandNationalNo>
+<HusbandFatherName>سبزعلي</HusbandFatherName>
+<HusbandMotherName>معصومه</HusbandMotherName>
+<HusbandIdentityNo>4500</HusbandIdentityNo>
+<HusbandIdentitySerialNo1>12</HusbandIdentitySerialNo1>
+<HusbandIdentitySerialNo2>12</HusbandIdentitySerialNo2>
+<HusbandIdentitySerialNo3>177877</HusbandIdentitySerialNo3>
+<HusbandIdentityIssueLoc>سمنان</HusbandIdentityIssueLoc>
+<HusbandPassportDate></HusbandPassportDate>
+<HusbandPassportNo></HusbandPassportNo>
+<HusbandMarriagePermitDate></HusbandMarriagePermitDate>
+<HusbandMarriagePermitNo></HusbandMarriagePermitNo>
+<HusbandNajaDocDate></HusbandNajaDocDate>
+<HusbandNajaDocNo></HusbandNajaDocNo>
+<HusbandNajaDocNo></HusbandNajaDocNo>
+<HusbandNajaDocNo></HusbandNajaDocNo>
+<HusbandMNotaryJobCode>2131005</HusbandMNotaryJobCode>
+<HusbandMNotaryJobTitle>تحليل‌گر سيستم كامپيوتر </HusbandMNotaryJobTitle>
+<HusbandEducationLevelCode>10</HusbandEducationLevelCode>
+<HusbandEducationLevelTitle>فوق ليسانس - كارشناسي ارشد</HusbandEducationLevelTitle>
+<HusbandReligionCode>1</HusbandReligionCode>
+<HusbandReligionTitle>اسلام</HusbandReligionTitle>
+<HusbandReligionIdeologyCode>1</HusbandReligionIdeologyCode>
+<HusbandReligionIdeologyTitle>شيعه</HusbandReligionIdeologyTitle>
+<HusbandNumOfMarriages>0</HusbandNumOfMarriages>
+<HusbandAddress>سمنان-فاز يك خيابان هفتم پلاك 608</HusbandAddress>
+<HusbandAddressGeoLocationCode>296</HusbandAddressGeoLocationCode>
+<HusbandAddressGeoLocationTitle>سمنان</HusbandAddressGeoLocationTitle>
+<HusbandPostalCode>3519715317</HusbandPostalCode>
+</EventPacket>
+
+</Body>
+</Result></body>
+			</response>

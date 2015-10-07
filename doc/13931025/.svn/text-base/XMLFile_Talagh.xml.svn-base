@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EventPacket>
+  <ScriptoriumNo>209</ScriptoriumNo>
+  <ScriptoriumName>دفترخانه ازدواج شماره 209 و طلاق شماره 4 شهر دزفول استان خوزستان</ScriptoriumName>
+  <ScriptoriumCode>82796</ScriptoriumCode>
+  <ScriptoriumLocation>دزفول</ScriptoriumLocation>
+  <ScriptoriumLocationCode>296</ScriptoriumLocationCode>
+  <ScriptoriumAddress>دزفول خيابان 45 متري فتح المبين پايين تر از ميدان افشار ابتداي خيابان عارف دزفولي پلاك 265</ScriptoriumAddress>
+  <ScriptoriumSarDaftarFullName>محمدحسن رسولي نسب</ScriptoriumSarDaftarFullName>
+  <ScriptoriumTelNo>061-42254170-71</ScriptoriumTelNo>
+  <NationalRegisterNo>139340582796000491</NationalRegisterNo>
+  <EventType>2</EventType>
+  <RegisterNo>4415</RegisterNo>
+  <RegisterDate>1393/07/26</RegisterDate>
+  <EventDate>1393/07/26</EventDate>
+  <SerialDocumentNo1>1</SerialDocumentNo1>
+  <SerialDocumentNo2>92</SerialDocumentNo2>
+  <SerialDocumentNo3>097238</SerialDocumentNo3>
+  <HasJudgeHokm>2</HasJudgeHokm>
+  <CaseClassifyNo>9309986161200770</CaseClassifyNo>
+  <DadnamehNo>9309976161200810</DadnamehNo>
+  <DadnamehDate>1393/07/20</DadnamehDate>
+  <DadnamehIssuerName>شعبه دوم دادگاه حقوقي شوش</DadnamehIssuerName>
+  <MarriageType>1</MarriageType>
+  <DiscreteMarriageMonth></DiscreteMarriageMonth>
+  <DiscreteMarriageYear></DiscreteMarriageYear>
+  <LastModifyDateTime>1393/07/28-10:54</LastModifyDateTime>
+  <Description></Description>
+  <BazlDate></BazlDate>
+  <BazlModatType></BazlModatType>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <FaskhDate></FaskhDate>
+  <CaseClassifyNo4Faskh></CaseClassifyNo4Faskh>
+  <HokmDate4Faskh></HokmDate4Faskh>
+  <HokmIssuerName4Faskh></HokmIssuerName4Faskh>
+  <HokmNo4Faskh></HokmNo4Faskh>
+  <NationalRegisterNo4Faskh></NationalRegisterNo4Faskh>
+  <DivorceBaenType>1</DivorceBaenType>
+  <DivorceType>2</DivorceType>
+  <DivorceRequester>1</DivorceRequester>
+  <HasMarriageInfo4Divorce>1</HasMarriageInfo4Divorce>
+  <MarriageScriptorium4DivorceCode></MarriageScriptorium4DivorceCode>
+  <MarriageScriptoriumLoc4Divrc>شوش</MarriageScriptoriumLoc4Divrc>
+  <MarriageScriptoriumNo4Divrc>206</MarriageScriptoriumNo4Divrc>
+  <NationalRegisterNo4Divorce></NationalRegisterNo4Divorce>
+  <RelatedEventDate4Divorce>1392/05/27</RelatedEventDate4Divorce>
+  <RelatedRegisterNo4Divorce>6334</RelatedRegisterNo4Divorce>
+  <RelatedRegisterDate4Divorce>1392/05/27</RelatedRegisterDate4Divorce>
+  <RelatedRegisterDate4Divorce>1392/05/27</RelatedRegisterDate4Divorce>
+  <ReturnDate></ReturnDate>
+  <CaseClassifyNo4Return></CaseClassifyNo4Return>
+  <HokmDate4Return></HokmDate4Return>
+  <HokmIssuerName4Return></HokmIssuerName4Return>
+  <HokmNo4Return></HokmNo4Return>
+  <MaxSpecifiedDate4Return>1393/10/26</MaxSpecifiedDate4Return>
+  <NationalRegisterNo4Return></NationalRegisterNo4Return>
+  <ReturnInSpecifiedTime></ReturnInSpecifiedTime>
+  <ReturnResultToMarriage></ReturnResultToMarriage>
+  <WifeNationalityType>1</WifeNationalityType>
+  <WifeNationalityCode>296</WifeNationalityCode>
+  <WifeNationalityTitle>ايران</WifeNationalityTitle>
+  <WifeIsInfoCompleted>1</WifeIsInfoCompleted>
+  <WifeNamePrefix>1</WifeNamePrefix>
+  <WifeName>هدي</WifeName>
+  <WifeFamily>موسوي</WifeFamily>
+  <WifeBirthDate>1370/06/20</WifeBirthDate>
+  <WifeNationalNo>1870178300</WifeNationalNo>
+  <WifeFatherName>هادي</WifeFatherName>
+  <WifeMotherName>خديجه</WifeMotherName>
+  <WifeIdentityNo>1870178300</WifeIdentityNo>
+  <WifeIdentitySerialNo1>1</WifeIdentitySerialNo1>
+  <WifeIdentitySerialNo2>53</WifeIdentitySerialNo2>
+  <WifeIdentitySerialNo3>364038</WifeIdentitySerialNo3>
+  <WifeIdentityIssueLoc>شوشتر</WifeIdentityIssueLoc>
+  <WifePassportDate></WifePassportDate>
+  <WifePassportNo>4520145</WifePassportNo>
+  <WifeMarriagePermitDate></WifeMarriagePermitDate>
+  <WifeMarriagePermitNo></WifeMarriagePermitNo>
+  <WifeNajaDocDate>1392/01/12</WifeNajaDocDate>
+  <WifeNajaDocNo>1452100</WifeNajaDocNo>
+  <WifeNajaDocNo>1452100</WifeNajaDocNo>
+  <WifeNajaDocNo>1452100</WifeNajaDocNo>
+  <WifeMNotaryJobCode>X000006</WifeMNotaryJobCode>
+  <WifeMNotaryJobTitle>دانشجو</WifeMNotaryJobTitle>
+  <WifeEducationLevelCode>09</WifeEducationLevelCode>
+  <WifeEducationLevelTitle>ليسانس - كارشناسي</WifeEducationLevelTitle>
+  <WifeReligionCode>1</WifeReligionCode>
+  <WifeReligionTitle>اسلام</WifeReligionTitle>
+  <WifeReligionIdeologyCode>1</WifeReligionIdeologyCode>
+  <WifeReligionIdeologyTitle>شيعه</WifeReligionIdeologyTitle>
+  <WifeNumOfMarriages>0</WifeNumOfMarriages>
+  <WifeAddress>60 واحدي خيابان ايثار پلاك 17</WifeAddress>
+  <WifeAddressGeolocationCode>296</WifeAddressGeolocationCode>
+  <WifeAddressGeolocationTitle>شوش</WifeAddressGeolocationTitle>
+  <WifePostalCode>6471664717</WifePostalCode>
+  <HusbandNationalityType>1</HusbandNationalityType>
+  <HusbandNationalityCode>296</HusbandNationalityCode>
+  <HusbandNationalityTitle>ايران</HusbandNationalityTitle>
+  <HusbandIsInfoCompleted>1</HusbandIsInfoCompleted>
+  <HusbandName>سيدعلي</HusbandName>
+  <HusbandFamily>جادران</HusbandFamily>
+  <HusbandBirthDate>1370/11/06</HusbandBirthDate>
+  <HusbandNationalNo>5260072723</HusbandNationalNo>
+  <HusbandFatherName>سيدعباس</HusbandFatherName>
+  <HusbandMotherName>فاطمه</HusbandMotherName>
+  <HusbandIdentityNo>5260072723</HusbandIdentityNo>
+  <HusbandIdentitySerialNo1>1</HusbandIdentitySerialNo1>
+  <HusbandIdentitySerialNo2>57</HusbandIdentitySerialNo2>
+  <HusbandIdentitySerialNo3>275280</HusbandIdentitySerialNo3>
+  <HusbandIdentityIssueLoc>شوش</HusbandIdentityIssueLoc>
+  <HusbandPassportDate></HusbandPassportDate>
+  <HusbandPassportNo>1254807</HusbandPassportNo>
+  <HusbandMarriagePermitDate></HusbandMarriagePermitDate>
+  <HusbandMarriagePermitNo></HusbandMarriagePermitNo>
+  <HusbandNajaDocDate>1392/04/04</HusbandNajaDocDate>
+  <HusbandNajaDocNo>1450879</HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandMNotaryJobCode>X000006</HusbandMNotaryJobCode>
+  <HusbandMNotaryJobTitle>دانشجو</HusbandMNotaryJobTitle>
+  <HusbandEducationLevelCode>09</HusbandEducationLevelCode>
+  <HusbandEducationLevelTitle>ليسانس - كارشناسي</HusbandEducationLevelTitle>
+  <HusbandReligionCode>1</HusbandReligionCode>
+  <HusbandReligionTitle>اسلام</HusbandReligionTitle>
+  <HusbandReligionIdeologyCode>1</HusbandReligionIdeologyCode>
+  <HusbandReligionIdeologyTitle>شيعه</HusbandReligionIdeologyTitle>
+  <HusbandNumOfMarriages>1</HusbandNumOfMarriages>
+  <HusbandAddress>شهرك دانيال خ تعاون جنوبي پ5</HusbandAddress>
+  <HusbandAddressGeoLocationCode>296</HusbandAddressGeoLocationCode>
+  <HusbandAddressGeoLocationTitle>شوش</HusbandAddressGeoLocationTitle>
+  <HusbandPostalCode>6471945666</HusbandPostalCode>
+</EventPacket>
+

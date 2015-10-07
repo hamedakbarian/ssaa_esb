@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EventPacket>
+  <ScriptoriumNo>107</ScriptoriumNo>
+  <ScriptoriumName>دفترخانه ازدواج شماره 107 و طلاق شماره 4 روستاي خيرآباد بخش مركزي استان يزد</ScriptoriumName>
+  <ScriptoriumCode>81422</ScriptoriumCode>
+  <ScriptoriumLocation>خيرآباد</ScriptoriumLocation>
+  <ScriptoriumLocationCode>296</ScriptoriumLocationCode>
+  <ScriptoriumAddress>يزد-بلوار شهيد صدوقي كوچه جنب منطقه 3 كوچه مثنوي پلاك6</ScriptoriumAddress>
+  <ScriptoriumSarDaftarFullName>سيد حسن حاجي ميرزا</ScriptoriumSarDaftarFullName>
+  <ScriptoriumTelNo>0351-7245029</ScriptoriumTelNo>
+  <NationalRegisterNo>139340481422000252</NationalRegisterNo>
+  <EventType>1</EventType>
+  <RegisterNo>7945</RegisterNo>
+  <RegisterDate>1393/07/20</RegisterDate>
+  <EventDate>1392/04/24</EventDate>
+  <SerialDocumentNo1>1</SerialDocumentNo1>
+  <SerialDocumentNo2>92</SerialDocumentNo2>
+  <SerialDocumentNo3>261290</SerialDocumentNo3>
+  <HasJudgeHokm>1</HasJudgeHokm>
+  <CaseClassifyNo>9209980301001102</CaseClassifyNo>
+  <DadnamehNo>9209970301001734</DadnamehNo>
+  <DadnamehDate>1392/11/07</DadnamehDate>
+  <DadnamehIssuerName>يزد</DadnamehIssuerName>
+  <MarriageType>2</MarriageType>
+  <DiscreteMarriageMonth>0</DiscreteMarriageMonth>
+  <DiscreteMarriageYear>0</DiscreteMarriageYear>
+  <LastModifyDateTime>1393/07/27-10:34</LastModifyDateTime>
+  <Description>شماره  ملی زوج:2580455412
+  شماره ملی زوجه:4521030012
+  تاریخ ازدواج: 1392/02/12
+  تاریخ نامه دفتر: 1392/02/03
+  شماره نامه دفتر خانه:97978232
+  شماره دفترخانه:123
+  محل دفتر خانه : شوشتر
+  </Description>
+  <BazlDate></BazlDate>
+  <BazlModatType></BazlModatType>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <NationalRegisterNo4Bazl></NationalRegisterNo4Bazl>
+  <FaskhDate></FaskhDate>
+  <CaseClassifyNo4Faskh></CaseClassifyNo4Faskh>
+  <HokmDate4Faskh></HokmDate4Faskh>
+  <HokmIssuerName4Faskh></HokmIssuerName4Faskh>
+  <HokmNo4Faskh></HokmNo4Faskh>
+  <NationalRegisterNo4Faskh></NationalRegisterNo4Faskh>
+  <DivorceBaenType></DivorceBaenType>
+  <DivorceType></DivorceType>
+  <DivorceRequester></DivorceRequester>
+  <HasMarriageInfo4Divorce></HasMarriageInfo4Divorce>
+  <MarriageScriptorium4DivorceCode></MarriageScriptorium4DivorceCode>
+  <MarriageScriptoriumLoc4Divrc></MarriageScriptoriumLoc4Divrc>
+  <MarriageScriptoriumNo4Divrc></MarriageScriptoriumNo4Divrc>
+  <NationalRegisterNo4Divorce></NationalRegisterNo4Divorce>
+  <RelatedEventDate4Divorce></RelatedEventDate4Divorce>
+  <RelatedRegisterNo4Divorce></RelatedRegisterNo4Divorce>
+  <RelatedRegisterDate4Divorce></RelatedRegisterDate4Divorce>
+  <RelatedRegisterDate4Divorce></RelatedRegisterDate4Divorce>
+  <ReturnDate></ReturnDate>
+  <CaseClassifyNo4Return></CaseClassifyNo4Return>
+  <HokmDate4Return></HokmDate4Return>
+  <HokmIssuerName4Return></HokmIssuerName4Return>
+  <HokmNo4Return></HokmNo4Return>
+  <MaxSpecifiedDate4Return></MaxSpecifiedDate4Return>
+  <NationalRegisterNo4Return></NationalRegisterNo4Return>
+  <ReturnInSpecifiedTime></ReturnInSpecifiedTime>
+  <ReturnResultToMarriage></ReturnResultToMarriage>
+  <WifeNationalityType>1</WifeNationalityType>
+  <WifeNationalityCode>296</WifeNationalityCode>
+  <WifeNationalityTitle>ايران</WifeNationalityTitle>
+  <WifeIsInfoCompleted>1</WifeIsInfoCompleted>
+  <WifeNamePrefix>2</WifeNamePrefix>
+  <WifeName>افسانه</WifeName>
+  <WifeFamily>محمدي نيا</WifeFamily>
+  <WifeBirthDate>1372/06/11</WifeBirthDate>
+  <WifeNationalNo>4420701943</WifeNationalNo>
+  <WifeFatherName>حسين</WifeFatherName>
+  <WifeMotherName>فاطمه</WifeMotherName>
+  <WifeIdentityNo>4420701943</WifeIdentityNo>
+  <WifeIdentitySerialNo1>1</WifeIdentitySerialNo1>
+  <WifeIdentitySerialNo2>91</WifeIdentitySerialNo2>
+  <WifeIdentitySerialNo3>714140</WifeIdentitySerialNo3>
+  <WifeIdentityIssueLoc>يزد</WifeIdentityIssueLoc>
+  <WifePassportDate></WifePassportDate>
+  <WifePassportNo></WifePassportNo>
+  <WifeMarriagePermitDate></WifeMarriagePermitDate>
+  <WifeMarriagePermitNo></WifeMarriagePermitNo>
+  <WifeNajaDocDate></WifeNajaDocDate>
+  <WifeNajaDocNo></WifeNajaDocNo>
+  <WifeNajaDocNo></WifeNajaDocNo>
+  <WifeNajaDocNo></WifeNajaDocNo>
+  <WifeMNotaryJobCode>X000005</WifeMNotaryJobCode>
+  <WifeMNotaryJobTitle>خانه دار</WifeMNotaryJobTitle>
+  <WifeEducationLevelCode>09</WifeEducationLevelCode>
+  <WifeEducationLevelTitle>ليسانس - كارشناسي</WifeEducationLevelTitle>
+  <WifeReligionCode>1</WifeReligionCode>
+  <WifeReligionTitle>اسلام</WifeReligionTitle>
+  <WifeReligionIdeologyCode>1</WifeReligionIdeologyCode>
+  <WifeReligionIdeologyTitle>شيعه</WifeReligionIdeologyTitle>
+  <WifeNumOfMarriages>1</WifeNumOfMarriages>
+  <WifeAddress>يزد  ازادشهر</WifeAddress>
+  <WifeAddressGeolocationCode>296</WifeAddressGeolocationCode>
+  <WifeAddressGeolocationTitle>يزد</WifeAddressGeolocationTitle>
+  <WifePostalCode>8917334858</WifePostalCode>
+  <HusbandNationalityType>1</HusbandNationalityType>
+  <HusbandNationalityCode>296</HusbandNationalityCode>
+  <HusbandNationalityTitle>ايران</HusbandNationalityTitle>
+  <HusbandIsInfoCompleted>2</HusbandIsInfoCompleted>
+  <HusbandName>مجتبي</HusbandName>
+  <HusbandFamily>حيدري بندر آبادي</HusbandFamily>
+  <HusbandBirthDate>1370/12/13</HusbandBirthDate>
+  <HusbandNationalNo>4420476311</HusbandNationalNo>
+  <HusbandFatherName>بمانعلي</HusbandFatherName>
+  <HusbandMotherName>سكينه</HusbandMotherName>
+  <HusbandIdentityNo>4420476311</HusbandIdentityNo>
+  <HusbandIdentitySerialNo1></HusbandIdentitySerialNo1>
+  <HusbandIdentitySerialNo2></HusbandIdentitySerialNo2>
+  <HusbandIdentitySerialNo3></HusbandIdentitySerialNo3>
+  <HusbandIdentityIssueLoc>يزد</HusbandIdentityIssueLoc>
+  <HusbandPassportDate></HusbandPassportDate>
+  <HusbandPassportNo></HusbandPassportNo>
+  <HusbandMarriagePermitDate></HusbandMarriagePermitDate>
+  <HusbandMarriagePermitNo></HusbandMarriagePermitNo>
+  <HusbandNajaDocDate></HusbandNajaDocDate>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandNajaDocNo></HusbandNajaDocNo>
+  <HusbandMNotaryJobCode>2490009</HusbandMNotaryJobCode>
+  <HusbandMNotaryJobTitle>كارشناس آموزش خدمات جهانگردي </HusbandMNotaryJobTitle>
+  <HusbandEducationLevelCode>09</HusbandEducationLevelCode>
+  <HusbandEducationLevelTitle>ليسانس - كارشناسي</HusbandEducationLevelTitle>
+  <HusbandReligionCode>1</HusbandReligionCode>
+  <HusbandReligionTitle>اسلام</HusbandReligionTitle>
+  <HusbandReligionIdeologyCode>1</HusbandReligionIdeologyCode>
+  <HusbandReligionIdeologyTitle>شيعه</HusbandReligionIdeologyTitle>
+  <HusbandNumOfMarriages>0</HusbandNumOfMarriages>
+  <HusbandAddress>يزد خ كاشاني</HusbandAddress>
+  <HusbandAddressGeoLocationCode>296</HusbandAddressGeoLocationCode>
+  <HusbandAddressGeoLocationTitle>يزد</HusbandAddressGeoLocationTitle>
+  <HusbandPostalCode>8915698969</HusbandPostalCode>
+</EventPacket>
+
+

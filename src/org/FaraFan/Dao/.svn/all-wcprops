@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/Dao
+END
+RequestRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/Dao/RequestRepository.java
+END
+CoupleInfoRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/Dao/CoupleInfoRepository.java
+END
+DcuServiceLogsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/Dao/DcuServiceLogsRepository.java
+END
+EventInfoRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/SSAAESB/!svn/ver/2/trunk/src/org/FaraFan/Dao/EventInfoRepository.java
+END

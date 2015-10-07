@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/SSAAESB/!svn/ver/3/trunk/out/production/ssaa
+END
+SsaaVersion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SSAAESB/!svn/ver/2/trunk/out/production/ssaa/SsaaVersion.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SSAAESB/!svn/ver/2/trunk/out/production/ssaa/log4j.properties
+END
+SsaaConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/SSAAESB/!svn/ver/3/trunk/out/production/ssaa/SsaaConfig.properties
+END
